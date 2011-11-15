@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "garu.gemspec",
     "lib/garu.rb",
     "test/helper.rb",
     "test/test_garu.rb"
