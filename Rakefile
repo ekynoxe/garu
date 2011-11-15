@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "garu"
   gem.homepage = "http://github.com/ekynoxe/garu"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Garu! Google Analytics from Ruby.}
+  gem.description = %Q{A gem to send google analytics tracker requests from server side ruby code.}
   gem.email = "matt@ekynoxe.com"
   gem.authors = ["Mathieu Davy"]
   # dependencies defined in Gemfile

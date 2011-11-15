@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestGaru < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+  should "remove the last block of an IP address" do
+    return true
   end
 end

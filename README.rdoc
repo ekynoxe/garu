@@ -1,6 +1,6 @@
 = garu
 
-Description goes here.
+A gem to send google analytics tracker requests from server side ruby code.
 
 == Contributing to garu
  
